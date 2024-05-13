@@ -1,15 +1,12 @@
 var isValid = function(s) {
-  
   if ((s.length)%2 === 1) {
       return false;
   }
   
   const arr = ['(', ')', '{', '}', '[', ']'];
-  let clonedValue = [...s];
- 
   
- 
-  // console.log('clonedValue :',clonedValue,'pair :',pair, 'lastIndexNum :',lastIndexNum)
+  let clonedValue = [...s];
+  
   while (true) {
     if (clonedValue.length === 0) {
       return true;  
@@ -19,17 +16,10 @@ var isValid = function(s) {
     let big = clonedValue.lastIndexOf(arr[4]);
     let lastIndexNum = Math.max(small,middle,big);
     let pair = arr[arr.indexOf(clonedValue[lastIndexNum])+1];
-    console.log(pair);
-    
     if (clonedValue[lastIndexNum+1] === pair) {
         clonedValue.splice(lastIndexNum,2);
     } else {
-      return false
+      return false;
     }
-    
   }
-  function analyzeArr (cloneValue, pair) {
-    
-  }
-  
 };
