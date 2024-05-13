@@ -11,11 +11,11 @@ var isValid = function(s) {
     if (clonedValue.length === 0) {
       return true;  
     }
-    let small = clonedValue.lastIndexOf(arr[0]);
-    let middle = clonedValue.lastIndexOf(arr[2]);
-    let big = clonedValue.lastIndexOf(arr[4]);
-    let lastIndexNum = Math.max(small,middle,big);
-    let pair = arr[arr.indexOf(clonedValue[lastIndexNum])+1];
+    const small = clonedValue.lastIndexOf(arr[0]);
+    const middle = clonedValue.lastIndexOf(arr[2]);
+    const big = clonedValue.lastIndexOf(arr[4]);
+    const lastIndexNum = Math.max(small,middle,big);
+    const pair = arr[arr.indexOf(clonedValue[lastIndexNum])+1];
     if (clonedValue[lastIndexNum+1] === pair) {
         clonedValue.splice(lastIndexNum,2);
     } else {
