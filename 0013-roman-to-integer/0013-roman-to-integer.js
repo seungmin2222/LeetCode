@@ -10,8 +10,8 @@ var romanToInt = function(s) {
     L: 50,
     C: 100,
     D: 500,
-    M: 1000
-                   };
+    M: 1000,
+  };
   
   let sum = 0;
   
@@ -22,5 +22,6 @@ var romanToInt = function(s) {
       sum += romanInt[s[i]];
     }
   }
+
   return sum;
 };
