@@ -1,3 +1,3 @@
-let argumentsLength = function(...args) {
+var argumentsLength = function(...args) {
     return args.length;
 };
