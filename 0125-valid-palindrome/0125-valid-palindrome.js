@@ -3,19 +3,19 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-  const engAndNum = "abcdefghijklmnopqrstuvwxyz1234567890".split("")
-  const a = s.toLowerCase().split(" ").join("");
-  let b = "";
+  const engAndNum = "abcdefghijklmnopqrstuvwxyz0123456789".split("");
+  const lowerCaseAndNum = s.toLowerCase();
+  let str = "";
   
-  for (let i = 0; i < a.length; i++) {
-    if (engAndNum.indexOf(a[i]) !== -1) {
-        b += a[i];
-    };
-  };
+  for (let i = 0; i < lowerCaseAndNum.length; i++) {
+    if (engAndNum.indexOf(lowerCaseAndNum[i]) !== -1) {
+      str += lowerCaseAndNum[i];
+    }
+  }
   
-  for (let i = 0; i < b.length; i++) {
-    if (b[i] !== b[b.length - 1 - i]) {
-        return false;
+  for (let i = 0; i < str.length; i++) {
+    if (str[i] !== str[str.length - 1 - i]) {
+      return false;
     }
   }
   
