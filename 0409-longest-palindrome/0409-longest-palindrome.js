@@ -9,18 +9,18 @@ var longestPalindrome = function(s) {
   
   for (let i = 0; i < s.length; i++) {
     if (unitObj[s[i]]) {
-        unitObj[s[i]] += 1;
+      unitObj[s[i]] += 1;
     } else {
       unitObj[s[i]] = 1;
     }
   }
   
-  for (const i in unitObj) {
-    if (unitObj[i] % 2 === 0) {
-        maxNum += unitObj[i];
+  for (const key in unitObj) {
+    if (unitObj[key] % 2 === 0) {
+      maxNum += unitObj[key];
     } else {
       isOddNum = true;
-      maxNum += unitObj[i] - 1;
+      maxNum += unitObj[key] - 1;
     }
   }
   
