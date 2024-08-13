@@ -3,20 +3,18 @@
  * @return {number}
  */
 var climbStairs = function(n) {
-  const a = [1];
-  let sum = 0;
-  
-  for (let i = 0; i < n; i++) {
-    const b = a[i-1];
-    const c = a[i];
-    if (b) {
-      sum = b + c;
-      a.push(sum)
-    } else {
-      sum = c;
-      a.push(c);
-    }
+ if (n === 1) return 1;
+  if (n === 2) return 2;
+
+  let prev1 = 1;
+  let prev2 = 2;
+  let current;
+
+  for (let i = 3; i <= n; i++) {
+    current = prev1 + prev2;
+    prev1 = prev2;
+    prev2 = current;
   }
-  
-  return sum;
+
+  return prev2;
 };
