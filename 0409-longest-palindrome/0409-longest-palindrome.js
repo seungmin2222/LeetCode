@@ -3,22 +3,26 @@
  * @return {number}
  */
 var longestPalindrome = function(s) {
- const unitObj = {};
+  const unitObj = {};
   let maxNum = 0;
-  let hasOddFrequency = false;
+  let isOddNum = false;
   
   for (let i = 0; i < s.length; i++) {
-    unitObj[s[i]] = (unitObj[s[i]] || 0) + 1;
-  }
-  
-  for (const count of Object.values(unitObj)) {
-    if (count % 2 === 0) {
-        maxNum += count;
+    if (unitObj[s[i]]) {
+        unitObj[s[i]] += 1;
     } else {
-      maxNum += count - 1;
-      hasOddFrequency = true;
+      unitObj[s[i]] = 1;
     }
   }
   
-  return maxNum + (hasOddFrequency ? 1 : 0);
+  for (const i in unitObj) {
+    if (unitObj[i] % 2 === 0) {
+        maxNum += unitObj[i];
+    } else {
+      isOddNum = true;
+      maxNum += unitObj[i] - 1;
+    }
+  }
+  
+  return isOddNum ? maxNum + 1 : maxNum;
 };
