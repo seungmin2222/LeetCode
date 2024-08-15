@@ -12,6 +12,7 @@ var majorityElement = function(nums) {
     } else {
       obj[nums[i]] += 1;
     }
+    
     if (obj[nums[i]] > majorityNum) {
       return nums[i];
     }
