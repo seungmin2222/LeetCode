@@ -27,5 +27,4 @@ var backspaceCompare = function(s, t) {
   }
   
   return c.toString() === d.toString();
-  
 };
