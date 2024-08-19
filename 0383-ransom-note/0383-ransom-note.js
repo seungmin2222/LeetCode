@@ -14,14 +14,12 @@ var canConstruct = function(ransomNote, magazine) {
     }
   }
   
-  console.log(words);
   for (let i = 0; i < ransomNote.length; i++) {
     if(words[ransomNote[i]] === undefined || words[ransomNote[i]] <= 0) {
       return false;
     } else {
       words[ransomNote[i]] -= 1;
     }
-    console.log(words);
   }
   
   return true;
