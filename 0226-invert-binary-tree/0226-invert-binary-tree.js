@@ -25,7 +25,7 @@ var invertTree = function(root) {
     dfs(node.right);
    
   }
-    dfs(root);
-  
-    return root;
+  dfs(root);
+
+  return root;
 };
