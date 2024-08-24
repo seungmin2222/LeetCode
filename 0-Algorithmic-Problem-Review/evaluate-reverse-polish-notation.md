@@ -1,6 +1,6 @@
 # Evaluate Reverse Polish Notation
 
-이 문제는 "Reverse Polish Notation(RPN)" 또는 "후위 표기법"으로 표현된 수식을 평가하는 알고리즘을 구현하는 것입니다.
+이 문제는 "Reverse Polish Notation(RPN)" 또는 "후위 표기법"으로 표현된 수식을 평가하는 알고리즘을 구현하는 것이다.
 
 ### 주요 포인트
 
