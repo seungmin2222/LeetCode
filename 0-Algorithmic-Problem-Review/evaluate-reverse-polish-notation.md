@@ -95,7 +95,6 @@ var evalRPN = function(tokens) {
 
 ### 회고
 
-1. const operators = ['+', '-', '*','/']; 를 따로 선언하지 않아도 좋았을 것 같다.
-for문만 돌며 한번에 처리가 가능
+1. const operators = ['+', '-', '*','/']; 를 따로 선언하지 않아도 좋았을 것 같다. (for문을 돌며 한번에 처리가 가능)
 2. `Math.trunc()`와 `parseInt()`의 차이점
 음수가 나온다는 가정 하에 `Math.trunc()`가 더 정확한 방법일 수 있을 것 같다.
