@@ -25,5 +25,5 @@ var evalRPN = function(tokens) {
     }
   }
   
-  return Number(numbers.pop());
+  return numbers.pop();
 };
