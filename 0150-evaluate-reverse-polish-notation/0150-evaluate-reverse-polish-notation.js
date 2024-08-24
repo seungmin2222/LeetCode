@@ -8,8 +8,8 @@ var evalRPN = function(tokens) {
   
   for (let i = 0; i < tokens.length; i++) {
     if (operators.includes(tokens[i])) {
-      const secondNum = Number(numbers.pop());
-      const firstNum = Number(numbers.pop());
+      const secondNum = numbers.pop();
+      const firstNum = numbers.pop();
       
       if (tokens[i] === '+') {
         numbers.push(firstNum + secondNum); 
@@ -21,7 +21,7 @@ var evalRPN = function(tokens) {
         numbers.push(parseInt(firstNum / secondNum));
       }
     } else {
-      numbers.push(tokens[i]);
+      numbers.push(Number(tokens[i]));
     }
   }
   
