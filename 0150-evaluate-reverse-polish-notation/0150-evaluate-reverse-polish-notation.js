@@ -18,7 +18,7 @@ var evalRPN = function(tokens) {
       } else if (tokens[i] === '*'){
         numbers.push(firstNum * secondNum); 
       } else {
-        numbers.push(parseInt(firstNum / secondNum));
+        numbers.push(Math.trunc(firstNum / secondNum));
       }
     } else {
       numbers.push(Number(tokens[i]));
