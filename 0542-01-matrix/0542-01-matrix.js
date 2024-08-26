@@ -4,35 +4,37 @@
  */
 var updateMatrix = function(mat) {
   let newMat = [...mat];
-  const a = [];
-  const b = [];
+  const zeroPoint = [];
+  const notZeroPoint = [];
   
   for (let i = 0; i < mat.length; i++) {
     for (let j = 0; j < mat[i].length; j++) {
       if (mat[i][j] === 0) {
-        a.push([i,j]);
+        zeroPoint.push([i,j]);
         newMat[i][j] = 0;
       } else {
-        b.push([i,j]);
+        notZeroPoint.push([i,j]);
         newMat[i][j] = Infinity;
       }
     }
   }
   
-  for (let i = 0; i < b.length; i++) {
+  for (let i = 0; i < notZeroPoint.length; i++) {
     let minNum = Infinity;
-    for (let j = 0; j < a.length; j++) {
-      const c = Math.abs(b[i][0] - a[j][0]);
-      const d = Math.abs(b[i][1] - a[j][1]);
+    for (let j = 0; j < zeroPoint.length; j++) {
+      const distanceNum1 = Math.abs(notZeroPoint[i][0] - zeroPoint[j][0]);
+      const distanceNum2 = Math.abs(notZeroPoint[i][1] - zeroPoint[j][1]);
+      
       if (minNum === 1) {
         break;
       }
-      if (minNum > c + d) {
-        minNum = c + d;
+      
+      if (minNum > distanceNum1 + distanceNum2) {
+        minNum = distanceNum1 + distanceNum2;
       }
     }
 
-    newMat[b[i][0]][b[i][1]] = minNum;
+    newMat[notZeroPoint[i][0]][notZeroPoint[i][1]] = minNum;
   }
   
   return newMat;
