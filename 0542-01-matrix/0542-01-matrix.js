@@ -24,6 +24,9 @@ var updateMatrix = function(mat) {
     for (let j = 0; j < a.length; j++) {
       const c = Math.abs(b[i][0] - a[j][0]);
       const d = Math.abs(b[i][1] - a[j][1]);
+      if (minNum === 1) {
+        break;
+      }
       if (minNum > c + d) {
         minNum = c + d;
       }
