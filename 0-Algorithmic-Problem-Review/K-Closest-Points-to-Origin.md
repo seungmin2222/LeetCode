@@ -1,4 +1,4 @@
-# K Closest Points to Origin
+# [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
 주어진 x, y 좌표가 담긴 배열들의 집합에서 각 점이 원점(0, 0)으로부터 얼마나 가까운지를 계산하고, 원점에서 가장 가까운 k개의 점을 반환하는 문제다.
 
