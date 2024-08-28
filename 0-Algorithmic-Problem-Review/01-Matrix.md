@@ -1,4 +1,4 @@
-# 01 Matrix
+# [01 Matrix](https://leetcode.com/problems/01-matrix/)
 이 문제에서는 `m x n` 크기의 이진 행렬 `mat`이 주어진다.
 
 각 셀에 대해 가장 가까운 `0`까지의 거리를 계산하고, 그 결과를 새로운 행렬로 반환해야 한다.
