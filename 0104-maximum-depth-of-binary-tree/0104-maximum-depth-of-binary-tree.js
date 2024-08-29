@@ -15,13 +15,14 @@ var maxDepth = function(root, num) {
 
   function depth(node, num) {
     if (!node) return 0;
+    
     num++
     
     let leftDepth = depth(node.left, num);
     let rightDepth = depth(node.right, num);
     
     if (maxNum < num) {
-        maxNum = num;
+      maxNum = num;
     }
   }
   depth(root, 0);
