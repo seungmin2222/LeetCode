@@ -6,5 +6,6 @@
 2. [K Closest Points to Origin](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/K-Closest-Points-to-Origin.md)
 3. [01 Matrix](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/01-Matrix.md)
 4. [Evaluate Reverse Polish Notation](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/evaluate-reverse-polish-notation.md)
-5. [Flood Fill](https://leetcode.com/problems/flood-fill/)
-6. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+5. [Flood Fill](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Flood-Fill.md)
+6. [Diameter of Binary Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Diameter-of-Binary-Tree.md)
+7. [Maximum-Depth-of-Binary-Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Maximum-Depth-of-Binary-Tree.md)
