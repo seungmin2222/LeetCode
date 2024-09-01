@@ -9,3 +9,5 @@
 5. [Flood Fill](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Flood-Fill.md)
 6. [Diameter of Binary Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Diameter-of-Binary-Tree.md)
 7. [Maximum-Depth-of-Binary-Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Maximum-Depth-of-Binary-Tree.md)
+8. [Same-Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Same-Tree.md)
+9. [Number-of-1-Bits](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-1-bits.md)
