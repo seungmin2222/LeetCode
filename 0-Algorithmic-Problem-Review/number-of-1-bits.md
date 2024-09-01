@@ -1,4 +1,4 @@
-# Number of 1 Bits
+# [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/submissions/)
 
 이 문제는 주어진 정수 `n`의 이진수 표현에서 '1'의 개수를 계산하는 문제다. 
 
