@@ -25,8 +25,9 @@ var isPalindrome = function(head) {
     if (values[i] !== values[j]) {
       return false;
     }
-    i++
-    j--
+    
+    i++;
+    j--;
   }
   
   return true;
