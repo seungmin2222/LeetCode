@@ -14,3 +14,4 @@
 10. [Palindrome Linked List](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/palindrome-linked-list.md)
 11. [Product of Array Except Self](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/product-of-array-except-self.md)
 12. [Rotting Oranges](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/rotting-oranges.md)
+13. [Min Stack](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/min-stack.md)
