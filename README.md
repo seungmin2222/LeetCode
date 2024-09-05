@@ -15,3 +15,4 @@
 11. [Product of Array Except Self](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/product-of-array-except-self.md)
 12. [Rotting Oranges](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/rotting-oranges.md)
 13. [Min Stack](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/min-stack.md)
+14. [First Bad Version](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/first-bad-version.md)
