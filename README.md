@@ -16,3 +16,4 @@
 12. [Rotting Oranges](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/rotting-oranges.md)
 13. [Min Stack](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/min-stack.md)
 14. [First Bad Version](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/first-bad-version.md)
+15. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/seungmin2222/LeetCode/new/main/0-Algorithmic-Problem-Review)
