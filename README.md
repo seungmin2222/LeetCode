@@ -21,3 +21,4 @@
 17. [Search in Rotated Sorted Array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/search-in-rotated-sorted-array.md)
 18. [Balanced Binary Tree](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
 19. [Linked List Cycle](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/linked-list-cycle.md)
+20. [Symmetric Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/symmetric-tree.md)
