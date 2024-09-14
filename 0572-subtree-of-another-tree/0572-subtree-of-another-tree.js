@@ -20,7 +20,7 @@ var isSubtree = function(root, subRoot) {
     return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
 };
 
-var isSameTree = function(p, q) {
+const isSameTree = function(p, q) {
     if (!p && !q) return true;
     if (!p || !q || p.val !== q.val) return false;
     
