@@ -28,3 +28,4 @@
 24. [Word Break](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/word-break.md)
 25. [String to Integer (atoi)](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/string-to-integer-atoi.md)
 26. [Validate Binary Search Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/validate-binary-search-tree.md)
+27. [Number of Islands](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-islands.md)
