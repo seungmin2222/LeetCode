@@ -30,3 +30,4 @@
 26. [Validate Binary Search Tree](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/validate-binary-search-tree.md)
 27. [Number of Islands](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-islands.md)
 28. [Permutations](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/permutations.md)
+29. [Combination Sum](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/combination-sum.md)
