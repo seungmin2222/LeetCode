@@ -11,13 +11,14 @@ var permute = function(nums) {
     }
     
     for (let j = i; j < arr.length; j++) {
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-      dfs(i + 1, arr);
       [arr[j], arr[i]] = [arr[i], arr[j]];
+      dfs(i + 1, arr);
+      [arr[i], arr[j]] = [arr[j], arr[i]];
     }
-  };
+  }
   
   dfs(0, nums);
 
   return result;
 };
+  
