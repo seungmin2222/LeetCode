@@ -38,3 +38,4 @@
 34. [Binary Tree Right Side View](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/binary-tree-right-side-view.md)
 35. [Find the Duplicate Number](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-the-duplicate-number.md)
 36. [Merge Intervals](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
+37. [Spiral Matrix](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/spiral-matrix.md)
