@@ -39,3 +39,4 @@
 35. [Find the Duplicate Number](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-the-duplicate-number.md)
 36. [Merge Intervals](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
 37. [Spiral Matrix](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/spiral-matrix.md)
+38. [Longest Palindromic Substring](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/longest-palindromic-substring.md)
