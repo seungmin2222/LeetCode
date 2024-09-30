@@ -40,3 +40,4 @@
 36. [Merge Intervals](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
 37. [Spiral Matrix](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/spiral-matrix.md)
 38. [Longest Palindromic Substring](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/longest-palindromic-substring.md)
+39. [Letter Combinations of a Phone Number](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/letter-combinations-of-a-phone-number.md)
