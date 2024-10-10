@@ -49,3 +49,4 @@
 45. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/construct-binary-tree-from-preorder-and-inorder-traversal.md)
 46. [Container With Most Water](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/container-with-most-water.md)
 47. [Valid Sudoku](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/valid-sudoku.md)
+48. [Remove Nth Node From End of List](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/remove-nth-node-from-end-of-list.md)
