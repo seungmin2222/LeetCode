@@ -17,9 +17,5 @@ var groupAnagrams = function(strs) {
     }
   }
   
-  for (const word in wordObj) {
-    arr.push(wordObj[word]);
-  }
-  
-  return arr;
+  return Object.values(wordObj);
 };
