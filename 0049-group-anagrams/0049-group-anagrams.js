@@ -3,7 +3,6 @@
  * @return {string[][]}
  */
 var groupAnagrams = function(strs) {
-  if (strs.length === 0) return [[""]];
   const wordObj = {};
   const arr = [];
   
