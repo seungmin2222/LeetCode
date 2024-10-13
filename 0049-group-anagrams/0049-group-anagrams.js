@@ -4,7 +4,6 @@
  */
 var groupAnagrams = function(strs) {
   const wordObj = {};
-  const arr = [];
   
    for (let i = 0; i < strs.length; i++) {
     const sortWord = strs[i].split("").sort().join("");
