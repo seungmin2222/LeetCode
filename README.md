@@ -57,3 +57,4 @@
 53. [Top K Frequent Words](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/top-k-frequent-words.md)
 54. [Decode String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/decode-string.md)
 55. [Add Two Numbers](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/add-two-numbers.md)
+56. [Rotate Image](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
