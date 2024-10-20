@@ -58,3 +58,4 @@
 54. [Decode String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/decode-string.md)
 55. [Add Two Numbers](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/add-two-numbers.md)
 56. [Rotate Image](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
+57. [Generate Parentheses](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/generate-parentheses.md)
