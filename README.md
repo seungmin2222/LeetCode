@@ -67,3 +67,4 @@
 63. [Find the Difference](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-the-difference.md)
 64. [Pascal's Triangle](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/pascals-triangle.md)
 65. [Intersection of Two Arrays](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/intersection-of-two-arrays.md)
+66. [Isomorphic Strings](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/Isomorphic%20Strings.md)
