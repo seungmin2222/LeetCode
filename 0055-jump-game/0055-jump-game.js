@@ -12,6 +12,4 @@ var canJump = function(nums) {
     
     if (maxNum >= nums.length - 1) return true;
   }
-  
-  return false;
 };
