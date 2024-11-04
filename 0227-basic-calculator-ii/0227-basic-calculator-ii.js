@@ -15,7 +15,7 @@ var calculate = function(s) {
     }
 
     if (['+', '-', '*', '/'].includes(char) || i === s.length - 1) {
-      switch (sign) {
+     switch (sign) {
         case '+':
           stack.push(num);
           break;
@@ -34,5 +34,11 @@ var calculate = function(s) {
     }
   }
 
-  return stack.reduce((a, b) => a + b, 0);
+  num = 0;
+  
+  while (stack.length > 0) {
+    num += stack.pop();
+  }
+  
+  return num;
 };
