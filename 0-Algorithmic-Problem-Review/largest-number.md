@@ -12,15 +12,15 @@
 
 ```jsx
 var largestNumber = function(nums) {
-    nums.sort((a, b) => {
-        let strA = a.toString();
-        let strB = b.toString();
-        return (strB + strA) - (strA + strB);
-    });
-    
-    if (nums[0] === 0) return "0";
-    
-    return nums.join('');
+  nums.sort((a, b) => {
+    let strA = a.toString();
+    let strB = b.toString();
+    return (strB + strA) - (strA + strB);
+  });
+  
+  if (nums[0] === 0) return "0";
+  
+  return nums.join('');
 };
 
 ```
@@ -32,16 +32,28 @@ var largestNumber = function(nums) {
 2. 숫자들이 연결된 배열을 문자열로 변환하여 반환.
 3. 모든 숫자가 `0`일 경우 "0"을 반환하도록 처리.
 
+## 시간 복잡도
+
+- 핵심 로직은 `Array.sort()` 메서드를 사용하는 것이다.
+- `Array.sort()` 메서드는 대부분 퀵 정렬 알고리즘을 사용하므로, 평균 및 최악의 시간 복잡도는 O(n log n)이다.
+- 정렬 후에는 O(n) 시간이 소요되어 문자열로 변환하고 이어붙이는 작업을 수행한다.
+- 따라서 이 코드의 전체 시간 복잡도는 O(n log n)이다.
+
+## 공간 복잡도
+
+- 이 코드는 입력 배열 `nums`를 정렬하는 것 이외에 별도의 데이터 구조를 사용하지 않지만, 정렬 과정에서 내부적으로 추가 메모리를 사용할 수 있다.
+- 따라서 입력 크기에 따라 변동하는 메모리를 고려해야 하므로, 공간 복잡도는 O(n)이다.
+
 ## 알아둬야 할 것!
 
 ### 정렬 방식
 
 ```jsx
 nums.sort((a, b) => {
-        let strA = a.toString();
-        let strB = b.toString();
-        return (strB + strA) - (strA + strB);
-    });
+  let strA = a.toString();
+  let strB = b.toString();
+  return (strB + strA) - (strA + strB);
+});
 ```
 
 이 방식은 각 숫자 `a`와 `b`를 **문자열로 변환하여 두 숫자의 순서를 바꾸며** 비교하는 방식을 이해 해야한다.
@@ -53,8 +65,6 @@ nums.sort((a, b) => {
 ### 예시
 
 예를 들어, 숫자 배열 `[3, 30, 34, 5, 9]`가 있을 때, 우리가 원하는 것은 이 숫자들을 조합해 가장 큰 수를 만드는 것이다.
-
-여기서 숫자를 어떻게 배열하느냐에 따라 조합된 수의 크기가 달라집니다.
 
 1. `a`와 `b`가 두 개의 숫자라고 가정. 
     - `a`와 `b`를 문자열로 변환한 후, **`a + b`와 `b + a`를 비교.**
@@ -70,4 +80,4 @@ nums.sort((a, b) => {
 
 숫자를 문자열로 변환한 후 `a + b`와 `b + a`를 비교해 큰 수가 되는 순서로 정렬하는 방식을 사용했다.
 
-단순한 숫자 비교 대신 문자열 조합을 이용한 비교가 필요하다는 점이 인상적이었으며, `sort` 정렬을 통해 문제를 해결할 수 있었다.
+단순한 숫자 비교 대신 문자열 조합을 이용한 비교가 필요하다는 점이 포인트였다. `sort` 정렬을 통해 문제를 해결할 수 있었다.
