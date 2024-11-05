@@ -73,3 +73,4 @@
 69. [Merge Nodes in Between Zeros](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/merge-nodes-in-between-zeros.md)
 70. [Jump Game](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/jump-game.md)
 71. [Largest Number](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/largest-number.md)
+72. [Divide Players Into Teams of Equal Skill](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/divide-players-into-teams-of-equal-skill.md)
