@@ -75,3 +75,4 @@
 71. [Largest Number](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/largest-number.md)
 72. [Divide Players Into Teams of Equal Skill](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/divide-players-into-teams-of-equal-skill.md)
 73. [Length of the Longest Subsequence That Sums to Target](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/length-of-the-longest-subsequence-that-sums-to-target.md)
+74. [String Without AAA or BBB](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/string-without-aaa-or-bbb.md)
