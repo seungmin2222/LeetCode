@@ -77,3 +77,4 @@
 73. [Length of the Longest Subsequence That Sums to Target](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/length-of-the-longest-subsequence-that-sums-to-target.md)
 74. [String Without AAA or BBB](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/string-without-aaa-or-bbb.md)
 75. [Diagonal Traverse II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/diagonal-traverse-ii.md)
+76. [Sum of Number and Its Reverse](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/sum-of-number-and-its-reverse.md)
