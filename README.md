@@ -78,3 +78,4 @@
 74. [String Without AAA or BBB](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/string-without-aaa-or-bbb.md)
 75. [Diagonal Traverse II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/diagonal-traverse-ii.md)
 76. [Sum of Number and Its Reverse](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/sum-of-number-and-its-reverse.md)
+77. [Check If a String Can Break Another String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/check-if-a-string-can-break-another-string.md)
