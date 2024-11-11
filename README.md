@@ -79,3 +79,4 @@
 75. [Diagonal Traverse II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/diagonal-traverse-ii.md)
 76. [Sum of Number and Its Reverse](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/sum-of-number-and-its-reverse.md)
 77. [Check If a String Can Break Another String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/check-if-a-string-can-break-another-string.md)
+78. [Maximum Possible Number by Binary Concatenation](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-possible-number-by-binary-concatenation.md)
