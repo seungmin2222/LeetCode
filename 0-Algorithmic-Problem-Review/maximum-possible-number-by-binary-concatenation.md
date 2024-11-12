@@ -49,16 +49,45 @@ var maxGoodNumber = function(nums) {
 
 ## 시간 복잡도
 
-1. binaryStrings = nums.map(...)
-    - nums의 각 원소를 2진수 문자열로 변환하는 작업이므로 이 단계는 O(n).
-2. 삼중 for문
-    - `i`, `j`, `k`를 각각 `nums` 배열의 길이만큼 순회하므로 삼중 루프의 시간 복잡도는 `O(n^3).`
+**삼중 루프** (`i`, `j`, `k` 순회)
+
+- `i`, `j`, `k`는 각각 `nums.length` (여기서는 3)만큼 반복되며, 조건문을 통해 중복된 인덱스를 제외한다.
+- 중복된 인덱스를 제외한 후에도, 실제로 순열을 6번만 계산한다.
+- 즉, 삼중 루프는 `O(6)`번 반복되고, 이는 사실상 `O(1)`입니다.
 
 ## 공간 복잡도
 
 `nums` 배열의 각 숫자에 대해 2진수 문자열을 저장하는 배열 `binaryStrings`를 만든다.
 
-이 배열의 크기는 `n`이며, `O(n)`.
+이 배열의 크기는 `n`이며, `O(n)`이다.
+
+## 다른 사람의 코드
+
+```jsx
+var maxGoodNumber = function(nums) {
+  let maxNum = 0;
+
+  const permutations = [
+    [0, 1, 2], [0, 2, 1], [1, 0, 2], [1, 2, 0], [2, 0, 1], [2, 1, 0]
+  ];
+
+  for (let perm of permutations) {
+    const binaryStr = nums[perm[0]].toString(2) + nums[perm[1]].toString(2) + nums[perm[2]].toString(2);
+    const currentNumber = parseInt(binaryStr, 2);
+    maxNum = Math.max(maxNum, currentNumber);
+  }
+
+  return maxNum;
+};
+```
+
+## 다른 사람의 시간 복잡도
+
+**순열 생성**
+
+- 가능한 순열의 개수는 고정되어 있기 때문에 `O(1)`이다.
+
+고로  시간 복잡도는 고정된 값 `O(1)`이다.
 
 ## 알아둬야 할 것!
 
