@@ -80,4 +80,6 @@
 76. [Sum of Number and Its Reverse](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/sum-of-number-and-its-reverse.md)
 77. [Check If a String Can Break Another String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/check-if-a-string-can-break-another-string.md)
 78. [Maximum Possible Number by Binary Concatenation](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-possible-number-by-binary-concatenation.md)
-79. [Minimum Absolute Difference Between Elements With Constraint](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
+79. [Minimum Absolute Difference Between Elements With Constraint](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-absolute-difference-between-elements-with-constraint.md)
+80. [Most Beautiful Item for Each Query](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/most-beautiful-item-for-each-query.md)
+81. [Count the Number of Fair Pairs](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-the-number-of-fair-pairs.md)
