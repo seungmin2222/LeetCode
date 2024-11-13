@@ -14,12 +14,14 @@ var countFairPairs = function(nums, lower, upper) {
     
     while (left <= right) {
       let mid = Math.floor((left + right) / 2);
+      
       if (nums[i] + nums[mid] < lower) {
         left = mid + 1;
       } else {
         right = mid - 1;
       }
     }
+    
     let start = left;
     
     left = i + 1;
@@ -27,12 +29,14 @@ var countFairPairs = function(nums, lower, upper) {
 
     while (left <= right) {
       let mid = Math.floor((left + right) / 2);
+      
       if (nums[i] + nums[mid] > upper) {
         right = mid - 1;
       } else {
         left = mid + 1;
       }
     }
+    
     let end = right;
 
     if (start <= end) {
