@@ -11,6 +11,7 @@
  */
 var getDecimalValue = function(head) {
     let num = '';
+  
     while (head) {
         num += head.val;
         head = head.next;
