@@ -83,3 +83,5 @@
 79. [Minimum Absolute Difference Between Elements With Constraint](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-absolute-difference-between-elements-with-constraint.md)
 80. [Most Beautiful Item for Each Query](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/most-beautiful-item-for-each-query.md)
 81. [Count the Number of Fair Pairs](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-the-number-of-fair-pairs.md)
+82. [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/determine-whether-matrix-can-be-obtained-by-rotation.md)
+83. [Shortest Subarray to be Removed to Make Array Sorted](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/shortest-subarray-to-be-removed-to-make-array-sorted.md)
