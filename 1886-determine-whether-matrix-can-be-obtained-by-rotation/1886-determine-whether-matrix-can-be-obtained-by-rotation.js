@@ -13,6 +13,7 @@ var findRotation = function(mat, target) {
         rotated[j][n - i - 1] = mat[i][j];
       }
     }
+    
     return rotated;
   }
 
@@ -20,6 +21,7 @@ var findRotation = function(mat, target) {
     if (mat.toString() === target.toString()) {
       return true;
     }
+    
     mat = rotate(mat);
   }
   
