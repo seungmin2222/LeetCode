@@ -1,4 +1,4 @@
-## [Shortest Subarray to be Removed to Make Array Sorted Medium](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
+## [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
 
 1. 주어진 정수 배열에서 연속된 하위 배열(서브어레이)을 제거하여 남은 배열이 오름차순 포함이 되도록 만든다.
 2. 제거해야 하는 서브어레이의 **최소 길이**를 반환한다.
