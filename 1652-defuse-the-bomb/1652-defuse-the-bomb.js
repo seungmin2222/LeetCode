@@ -4,42 +4,28 @@
  * @return {number[]}
  */
 var decrypt = function(code, k) {
-  let arr = [];
-  let clone = [...code];
-  let kk = k
-  if (k < 0) {
-    clone = [...code].reverse();
-    kk = Math.abs(k);
-  } 
-  
-  for (let i = 1; i <= clone.length; i++) {
-    const start = i;
-    const end = i + kk > clone.length ?  i + kk - clone.length : i + kk;
-    
-    if (start > end) {
-      let sum1 = clone.slice(start, clone.length);
-      let sum2 = clone.slice(0, end);
-      
-      arr.push([...sum1,...sum2]);
-    } else {
-      let sum = clone.slice(start, end);
-      
-      arr.push(sum);
-    }
+  const n = code.length;
+  let result = new Array(n).fill(0); 
+
+  if (k === 0) {
+    return result; 
   }
-  
-  
-  for (let i = 0; i < arr.length; i++) {
+
+  for (let i = 0; i < n; i++) {
     let sum = 0;
     
-    for (let j = 0; j < arr[i].length; j++) {
-      sum += arr[i][j];
+    if (k > 0) {
+      for (let j = 1; j <= k; j++) {
+        sum += code[(i + j) % n];
+      }
+    } else {
+      for (let j = 1; j <= Math.abs(k); j++) {
+        sum += code[(i - j + n) % n];
+      }
     }
     
-    arr[i] = sum;
+    result[i] = sum;
   }
-  if (k < 0) {
-    return arr.reverse();
-  } 
-  return arr;
+
+  return result;
 };
