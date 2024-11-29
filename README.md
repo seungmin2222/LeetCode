@@ -88,3 +88,4 @@
 84. [Rotating the Box](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/rotating-the-box.md)
 85. [Combinations](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/combinations.md)
 86. [Find Champion II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-champion-ii.md)
+87. [Zigzag Conversion](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/zigzag-conversion.md)
