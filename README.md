@@ -86,3 +86,5 @@
 82. [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/determine-whether-matrix-can-be-obtained-by-rotation.md)
 83. [Shortest Subarray to be Removed to Make Array Sorted](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/shortest-subarray-to-be-removed-to-make-array-sorted.md)
 84. [Rotating the Box](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/rotating-the-box.md)
+85. [Combinations](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/combinations.md)
+86. [Find Champion II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-champion-ii.md)
