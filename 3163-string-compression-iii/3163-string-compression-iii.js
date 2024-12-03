@@ -8,7 +8,7 @@ var compressedString = function(word) {
   let nowWord = '';
   
   for (let i = 0; i < word.length; i++) {
-    if (nowWord === word[i]) {
+      if (nowWord === word[i]) {
       count++;
     } else {
       if (nowWord !== '') {
@@ -20,8 +20,8 @@ var compressedString = function(word) {
 
     if (count === 9) { 
       words += count + nowWord;
-      count = 0;
       nowWord = '';
+      count = 0;
     }
   }
 
