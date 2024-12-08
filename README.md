@@ -96,3 +96,4 @@
 92. [Move Pieces to Obtain a String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/move-pieces-to-obtain-a-string.md)
 93. [Make String a Subsequence Using Cyclic Increments](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/make-string-a-subsequence-using-cyclic-increments.md)
 94. [Maximum Number of Integers to Choose From a Range I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-number-of-integers-to-choose-from-a-range-i.md)
+95. [Maximum Width Ramp](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-width-ramp.md)
