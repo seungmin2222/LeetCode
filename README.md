@@ -98,3 +98,4 @@
 94. [Maximum Number of Integers to Choose From a Range I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-number-of-integers-to-choose-from-a-range-i.md)
 95. [Maximum Width Ramp](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-width-ramp.md)
 96. [Find Longest Special Substring That Occurs Thrice I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-longest-special-substring-that-occurs-thrice-i.md)
+97. [Special Array II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/special-array-ii.md)
