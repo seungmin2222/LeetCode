@@ -3,29 +3,29 @@
  * @return {string}
  */
 var countAndSay = function(n) {
-  let countSay = "1";
+  let seq = "1";
 
-  function Say(miniSay) {
-    let word = "";
+  function next(seq) {
+    let result = "";
     let count = 1;
-    
-    for (let i = 1; i < miniSay.length; i++) {
-      if (miniSay[i - 1] === miniSay[i]) {
+
+    for (let i = 1; i < seq.length; i++) {
+      if (seq[i - 1] === seq[i]) {
         count++;
       } else {
-        word += count + miniSay[i - 1];
+        result += count + seq[i - 1];
         count = 1;
       }
     }
-    
-    word += count + miniSay[miniSay.length - 1];
-    
-    return word;
+
+    result += count + seq[seq.length - 1];
+
+    return result;
   }
 
   for (let i = 1; i < n; i++) {
-    countSay = Say(countSay);
+    seq = next(seq);
   }
 
-  return countSay;
+  return seq;
 };
