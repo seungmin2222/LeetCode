@@ -99,3 +99,4 @@
 95. [Maximum Width Ramp](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-width-ramp.md)
 96. [Find Longest Special Substring That Occurs Thrice I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-longest-special-substring-that-occurs-thrice-i.md)
 97. [Special Array II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/special-array-ii.md)
+98. [Minimum Limit of Balls in a Bag](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
