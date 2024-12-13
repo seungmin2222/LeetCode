@@ -100,3 +100,4 @@
 96. [Find Longest Special Substring That Occurs Thrice I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-longest-special-substring-that-occurs-thrice-i.md)
 97. [Special Array II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/special-array-ii.md)
 98. [Minimum Limit of Balls in a Bag](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
+99. [Count and Say](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-and-say.md)
