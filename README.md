@@ -101,5 +101,6 @@
 97. [Special Array II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/special-array-ii.md)
 98. [Minimum Limit of Balls in a Bag](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
 99. [Count and Say](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-and-say.md)
-100. [Continuous Subarrays](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/continuous-subarrays.md)
-101. [Shortest Distance After Road Addition Queries I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/shortest-distance-after-road-addition-queries-i.md)
+100. [Find Score of an Array After Marking All Elements](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-score-of-an-array-after-marking-all-elements.md)
+101. [Continuous Subarrays](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/continuous-subarrays.md)
+102. [Shortest Distance After Road Addition Queries I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/shortest-distance-after-road-addition-queries-i.md)
