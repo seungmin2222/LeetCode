@@ -106,5 +106,3 @@
 102. [Shortest Distance After Road Addition Queries I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/shortest-distance-after-road-addition-queries-i.md)
 103. [Construct String With Repeat Limit](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/construct-string-with-repeat-limit.md)
 104. [Final Array State After K Multiplication Operations I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/final-array-state-after-k-multiplication-operations-i.md)
-
-105. 
