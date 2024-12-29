@@ -107,3 +107,4 @@
 103. [Construct String With Repeat Limit](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/construct-string-with-repeat-limit.md)
 104. [Final Array State After K Multiplication Operations I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/final-array-state-after-k-multiplication-operations-i.md)
 105. [Final Prices With a Special Discount in a Shop](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/final-prices-with-a-special-discount-in-a-shop.md)
+106. [Best Sightseeing Pair](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/best-sightseeing-pair.md)
