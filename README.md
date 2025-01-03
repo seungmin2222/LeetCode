@@ -112,3 +112,4 @@
 108. [Count Number of Maximum Bitwise-OR Subsets](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-number-of-maximum-bitwise-or-subsets.md)
 109. [Maximum Score After Splitting a String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-score-after-splitting-a-string.md)
 110. [Count Vowel Strings in Ranges](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-vowel-strings-in-ranges.md)
+111. [Number of Ways to Split Array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-ways-to-split-array.md)
