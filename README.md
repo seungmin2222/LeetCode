@@ -113,3 +113,4 @@
 109. [Maximum Score After Splitting a String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-score-after-splitting-a-string.md)
 110. [Count Vowel Strings in Ranges](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-vowel-strings-in-ranges.md)
 111. [Number of Ways to Split Array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-ways-to-split-array.md)
+112. [Unique Length-3 Palindromic Subsequences](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/unique-length-3-palindromic-subsequences.md)
