@@ -116,3 +116,4 @@
 112. [Unique Length-3 Palindromic Subsequences](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/unique-length-3-palindromic-subsequences.md)
 113. [Largest Combination With Bitwise AND Greater Than Zero](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/largest-combination-with-bitwise-and-greater-than-zero.md)
 114. [Maximum XOR for Each Query](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-xor-for-each-query.md)
+115. [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-number-of-operations-to-move-all-balls-to-each-box.md)
