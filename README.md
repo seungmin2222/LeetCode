@@ -117,3 +117,4 @@
 113. [Largest Combination With Bitwise AND Greater Than Zero](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/largest-combination-with-bitwise-and-greater-than-zero.md)
 114. [Maximum XOR for Each Query](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-xor-for-each-query.md)
 115. [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-number-of-operations-to-move-all-balls-to-each-box.md)
+116. [String Matching in an Array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/string-matching-in-an-array.md)
