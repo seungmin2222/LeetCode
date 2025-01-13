@@ -122,3 +122,4 @@
 118. [Counting Words With a Given Prefix](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/counting-words-with-a-given-prefix.md)
 119. [Word Subsets](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/word-subsets.md)
 120. [Construct K Palindrome Strings](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/construct-k-palindrome-strings.md)
+121. [Minimum Length of String After Operations](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/final-prices-with-a-special-discount-in-a-shop.md)
