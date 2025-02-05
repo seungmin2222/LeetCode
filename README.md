@@ -125,3 +125,4 @@
 121. [Minimum Length of String After Operations](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/final-prices-with-a-special-discount-in-a-shop.md)
 122. [Make Lexicographically Smallest Array by Swapping Elements](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/make-lexicographically-smallest-array-by-swapping-elements.md)
 123. [Find First and Last Position of Element in Sorted Array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-first-and-last-position-of-element-in-sorted-array.md)
+124. [Check if One String Swap Can Make Strings Equal](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/check-if-one-string-swap-can-make-strings-equal.md)
