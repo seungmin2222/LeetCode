@@ -129,3 +129,4 @@
 125. [Tuple with Same Product](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/tuple-with-same-product.md)
 126. [Max Area of Island](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/max-area-of-island.md)
 127. [Max Sum of a Pair With Equal Sum of Digits](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/max-sum-of-a-pair-with-equal-sum-of-digits.md)
+128. [Count Number of Bad Pairs](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-number-of-bad-pairs.md)
