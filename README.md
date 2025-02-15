@@ -130,3 +130,4 @@
 126. [Max Area of Island](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/max-area-of-island.md)
 127. [Max Sum of a Pair With Equal Sum of Digits](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/max-sum-of-a-pair-with-equal-sum-of-digits.md)
 128. [Count Number of Bad Pairs](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-number-of-bad-pairs.md)
+129. [Minimum Operations to Exceed Threshold Value II](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-operations-to-exceed-threshold-value-ii.md)
