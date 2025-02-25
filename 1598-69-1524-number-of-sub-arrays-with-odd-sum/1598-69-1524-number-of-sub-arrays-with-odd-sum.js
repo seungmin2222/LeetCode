@@ -9,7 +9,7 @@ var numOfSubarrays = function(arr) {
     let even = 1;
     let odd = 0;
     
-    const MOD = 1000000007; // 10^9 + 7
+    const MOD = 1000000007;
     
     const len = arr.length;
     for (let i = 0; i < len; i++) {
