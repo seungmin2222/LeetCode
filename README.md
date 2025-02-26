@@ -134,3 +134,5 @@
 130. [Find the Punishment Number of an Integer](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-the-punishment-number-of-an-integer.md)
 131. [Letter Tile Possibilities](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/letter-tile-possibilities.md)
 132. [Construct Smallest Number From DI String](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/construct-smallest-number-from-di-string.md)
+133. [Number of Sub-arrays With Odd Sum](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-sub-arrays-with-odd-sum.md)
+134. [Maximum Absolute Sum of Any Subarray](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-absolute-sum-of-any-subarray.md)
