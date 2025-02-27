@@ -137,3 +137,4 @@
 133. [Number of Sub-arrays With Odd Sum](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-sub-arrays-with-odd-sum.md)
 134. [Maximum Absolute Sum of Any Subarray](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-absolute-sum-of-any-subarray.md)
 135. [Length of Longest Fibonacci Subsequence](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
+136. [The k-th Lexicographical String of All Happy Strings of Length n](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.md)
