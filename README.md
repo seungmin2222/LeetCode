@@ -138,3 +138,5 @@
 134. [Maximum Absolute Sum of Any Subarray](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-absolute-sum-of-any-subarray.md)
 135. [Length of Longest Fibonacci Subsequence](https://github.com/seungmin2222/LeetCode/tree/main/0-Algorithmic-Problem-Review)
 136. [The k-th Lexicographical String of All Happy Strings of Length n](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.md)
+137. [apply-operations-to-an-array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/apply-operations-to-an-array.md)
+138. [Merge Two 2D Arrays by Summing Values](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/merge-two-2d-arrays-by-summing-values.md)
