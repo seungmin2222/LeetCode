@@ -141,3 +141,4 @@
 137. [apply-operations-to-an-array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/apply-operations-to-an-array.md)
 138. [Merge Two 2D Arrays by Summing Values](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/merge-two-2d-arrays-by-summing-values.md)
 139. [Partition Array According to Given Pivot](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/partition-array-according-to-given-pivot.md)
+140. [Check if Number is a Sum of Powers of Three](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/check-if-number-is-a-sum-of-powers-of-three.md)
