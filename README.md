@@ -143,3 +143,4 @@
 139. [Partition Array According to Given Pivot](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/partition-array-according-to-given-pivot.md)
 140. [Check if Number is a Sum of Powers of Three](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/check-if-number-is-a-sum-of-powers-of-three.md)
 141. [Closest Prime Numbers in Range](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/closest-prime-numbers-in-range.md)
+142. [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-recolors-to-get-k-consecutive-black-blocks.md)
