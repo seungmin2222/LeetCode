@@ -146,3 +146,4 @@
 142. [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-recolors-to-get-k-consecutive-black-blocks.md)
 143. [Number of Substrings Containing All Three Characters](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-substrings-containing-all-three-characters.md)
 144. [Maximum Candies Allocated to K Children](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-candies-allocated-to-k-children.md)
+145. [Longest Nice Subarray](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/longest-nice-subarray.md)
