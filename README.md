@@ -147,3 +147,4 @@
 143. [Number of Substrings Containing All Three Characters](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/number-of-substrings-containing-all-three-characters.md)
 144. [Maximum Candies Allocated to K Children](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-candies-allocated-to-k-children.md)
 145. [Longest Nice Subarray](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/longest-nice-subarray.md)
+146. [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-operations-to-make-binary-array-elements-equal-to-one-i.md)
