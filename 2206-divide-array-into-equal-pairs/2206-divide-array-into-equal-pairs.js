@@ -6,7 +6,7 @@ var divideArray = function(nums) {
     const obj = {};
 
     for (const i of nums) {
-        obj[i] ? obj[i]++ : obj[i] = 1;
+       obj[i] = (obj[i] || 0) + 1;
     }
 
     for (const i in obj) {
