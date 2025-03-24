@@ -149,3 +149,4 @@
 145. [Longest Nice Subarray](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/longest-nice-subarray.md)
 146. [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-operations-to-make-binary-array-elements-equal-to-one-i.md)
 147. [Find All Possible Recipes from Given Supplies](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/find-all-possible-recipes-from-given-supplies.md)
+148. [Count Days Without Meetings](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/count-days-without-meetings.md)
