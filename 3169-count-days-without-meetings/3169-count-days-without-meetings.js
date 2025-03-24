@@ -8,7 +8,7 @@ var countDays = function (days, meetings) {
 
     let mergedMeetings = [];
 
-    for (let meeting of meetings) {
+    for (const meeting of meetings) {
         if (mergedMeetings.length === 0 || mergedMeetings[mergedMeetings.length - 1][1] < meeting[0]) {
             mergedMeetings.push(meeting);
         } else {
@@ -17,7 +17,7 @@ var countDays = function (days, meetings) {
     }
 
     let bookedDays = 0;
-    for (let meeting of mergedMeetings) {
+    for (const meeting of mergedMeetings) {
         bookedDays += meeting[1] - meeting[0] + 1;
     }
 
