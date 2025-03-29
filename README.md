@@ -153,3 +153,4 @@
 149. [Minimum Time to Repair Cars](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-time-to-repair-cars.md)
 150. [Minimum Operations to Make a Uni-Value Grid](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/minimum-operations-to-make-a-uni-value-grid.md)
 151. [House Robber IV](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/house-robber-iv.md)
+152. [Rank Transform of an Array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/rank-transform-of-an-array.md)
