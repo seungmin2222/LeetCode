@@ -156,3 +156,4 @@
 152. [Rank Transform of an Array](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/rank-transform-of-an-array.md)
 153. [Partition Labels](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/partition-labels.md)
 154. [Append Characters to String to Make Subsequence](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/append-characters-to-string-to-make-subsequence.md)
+155. [Solving Questions With Brainpower](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/solving-questions-with-brainpower.md)
