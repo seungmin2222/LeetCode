@@ -157,3 +157,4 @@
 153. [Partition Labels](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/partition-labels.md)
 154. [Append Characters to String to Make Subsequence](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/append-characters-to-string-to-make-subsequence.md)
 155. [Solving Questions With Brainpower](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/solving-questions-with-brainpower.md)
+156. [Maximum Value of an Ordered Triplet I](https://github.com/seungmin2222/LeetCode/blob/main/0-Algorithmic-Problem-Review/maximum-value-of-an-ordered-triplet-i.md)
