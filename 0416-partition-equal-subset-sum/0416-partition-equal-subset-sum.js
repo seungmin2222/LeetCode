@@ -2,31 +2,20 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var canPartition = function(nums) {
-   const totalSum = nums.reduce((acc, num) => acc + num, 0);
+var canPartition = function (nums) {
+    const total = nums.reduce((a, b) => a + b, 0);
+    if (total % 2 !== 0) return false;
 
-  if (totalSum % 2 !== 0) return false;
+    const target = total / 2;
+    const dp = Array(target + 1).fill(false);
+    dp[0] = true;
 
-  const target = totalSum / 2;
-  const n = nums.length;
-  
-  const memo = Array.from({ length: n }, () => Array(target + 1).fill(-1));
-
-  const backtrack = (index, currentSum) => {
-    if (currentSum === target) return true;
-    if (currentSum > target || index >= n) return false;
-    
-    if (memo[index][currentSum] !== -1) {
-      return memo[index][currentSum];
+    for (let num of nums) {
+        for (let j = target; j >= num; j--) {
+            dp[j] = dp[j] || dp[j - num];
+        }
     }
 
-    const includeCurrent = backtrack(index + 1, currentSum + nums[index]);
-    const excludeCurrent = backtrack(index + 1, currentSum);
-
-    memo[index][currentSum] = includeCurrent || excludeCurrent;
-    return memo[index][currentSum];
-  };
-
-  return backtrack(0, 0);
+    return dp[target];
 };
 
